@@ -31,7 +31,7 @@ export default function Header() {
         <div className="row">
           <div className="col-lg-2 col-md-6 col-4">
             <div className="logo m-0">
-              <a href="index.html">
+              <a href="/">
                 <img alt="" src="./logo-verticle.png" style={{width: "220px"}}/>
               </a>
             </div>
@@ -42,16 +42,16 @@ export default function Header() {
                 <nav>
                   <ul>
                     <li>
-                      <a href="index.html">HOME</a>
+                      <a href="/">HOME</a>
                     </li>
                     <li>
-                      <a href="about-us.html">ABOUT</a>
+                      <a href="about">ABOUT</a>
                     </li>
                     <li>
-                      <a href="gallery.html">GALLERY</a>
+                      <a href="gallery">GALLERY</a>
                     </li>
                     <li>
-                      <a href="contact.html">CONTACT US</a>
+                      <a href="contact">CONTACT US</a>
                     </li>
                   </ul>
                 </nav>
@@ -65,16 +65,16 @@ export default function Header() {
             <nav id="mobile-menu-active">
               <ul className="menu-overflow">
                 <li>
-                  <a href="index.html">HOME</a>
+                  <a href="/">HOME</a>
                 </li>
                 <li>
-                  <a href="about-us.html">ABOUT</a>
+                  <a href="about">ABOUT</a>
                 </li>
                 <li>
-                  <a href="gallery.html">GALLERY</a>
+                  <a href="gallery">GALLERY</a>
                 </li>
                 <li>
-                  <a href="contact.html">CONTACT US</a>
+                  <a href="contact">CONTACT US</a>
                 </li>
               </ul>
             </nav>

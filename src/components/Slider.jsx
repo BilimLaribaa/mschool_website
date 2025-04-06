@@ -19,13 +19,13 @@ export default function Slider() {
                     <div className="slider-btn">
                       <a
                         className="animated default-btn btn-green-color"
-                        href="about-us.html"
+                        href="about"
                       >
                         ABOUT US
                       </a>
                       <a
                         className="animated default-btn btn-white-color"
-                        href="contact.html"
+                        href="contact"
                       >
                         CONTACT US
                       </a>
@@ -52,13 +52,13 @@ export default function Slider() {
                     <div className="slider-btn">
                       <a
                         className="animated default-btn btn-green-color"
-                        href="about-us.html"
+                        href="about"
                       >
                         ABOUT US
                       </a>
                       <a
                         className="animated default-btn btn-white-color"
-                        href="contact.html"
+                        href="contact"
                       >
                         CONTACT US
                       </a>
@@ -85,13 +85,13 @@ export default function Slider() {
                     <div className="slider-btn">
                       <a
                         className="animated default-btn btn-green-color"
-                        href="about-us.html"
+                        href="about"
                       >
                         ABOUT US
                       </a>
                       <a
                         className="animated default-btn btn-white-color"
-                        href="contact.html"
+                        href="contact"
                       >
                         CONTACT US
                       </a>

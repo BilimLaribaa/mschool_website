@@ -24,8 +24,8 @@ export default function Register() {
         <div className="winter-banner">
           <img src="assets/img/banner/regi-1.png" alt="" />
           <div className="winter-content">
-            <span>WINTER </span>
-            <h3>2019</h3>
+          
+            <h3>{new Date().getFullYear()}</h3>
             <span>ADMISSION </span>
           </div>
         </div>

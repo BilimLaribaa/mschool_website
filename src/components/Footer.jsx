@@ -24,12 +24,12 @@ export default function Footer() {
                   <div className="single-f-contact-info">
                     <i className="fa fa-envelope-o" />
                     <span>
-                      <a href="#">info@msschool.edu.in</a>
+                      <a href="#">mail2msschool@gmail.com</a>
                     </span>
                   </div>
                   <div className="single-f-contact-info">
                     <i className="fa fa-phone" />
-                    <span>+91 481 123 4567</span>
+                    <span>+91 9422931765</span>
                   </div>
                 </div>
               </div>
@@ -49,10 +49,7 @@ export default function Footer() {
                     <a href="/about">About Us</a>
                   </li>
                   <li>
-                    <a href="/facilities">Facilities</a>
-                  </li>
-                  <li>
-                    <a href="/admission">Admission</a>
+                    <a href="/gallery">Gallery</a>
                   </li>
                   <li>
                     <a href="/contact">Contact Us</a>

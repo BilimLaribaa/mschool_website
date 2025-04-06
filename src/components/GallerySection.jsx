@@ -1,18 +1,38 @@
 import { useState } from 'react';
 
-export default function AdmissionArea() {
+export default function GallerySection() {
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState('');
 
   const galleryImages = [
-    "CIN00200_1.JPG", "CIN00201_1.JPG", "CIN00202_1.JPG", "CIN00203_1.JPG",
-    "CIN00206_1.JPG", "CIN00210_1.JPG", "CIN00212_1.JPG",
-    "CIN00213_1.JPG", "CIN00214_1.JPG", "CIN00215_1.JPG", "CIN00216_1.JPG",
-    "CIN00217_1.JPG", "CIN00218_1.JPG", "CIN00220_1.JPG", "CIN00221_1.JPG",
-    "CIN00222_1.JPG", "CIN00225_1.JPG", "CIN00226_1.JPG", "CIN00227_1.JPG",
-    "CIN00228_1.JPG", "CIN00229_1.JPG", "CIN00230_1.JPG", "CIN00231_1.JPG",
-    "CIN00234_1.JPG", "CIN00236_1.JPG", "CIN00238_1.JPG", "CIN00225_1.JPG",
-    "CIN00253_1.JPG"
+    "img (1).JPG",
+"img (10).JPG",
+"img (11).JPG",
+"img (12).JPG",
+"img (13).JPG",
+"img (14).JPG",
+"img (15).JPG",
+"img (16).JPG",
+"img (17).JPG",
+"img (18).JPG",
+"img (19).JPG",
+"img (2).JPG",
+"img (20).JPG",
+"img (21).JPG",
+"img (24).JPG",
+"img (25).JPG",
+"img (26).JPG",
+"img (27).JPG",
+"img (28).JPG",
+"img (29).JPG",
+"img (3).JPG",
+"img (30).JPG",
+"img (4).JPG",
+"img (5).JPG",
+"img (6).JPG",
+"img (7).JPG",
+"img (8).JPG",
+"img (9).JPG"
   ];
 
   const openLightbox = (imagePath) => {

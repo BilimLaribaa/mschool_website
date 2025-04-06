@@ -27,11 +27,7 @@ export default function AboutUsSection() {
 With a carefully designed curriculum that merges Islamic Studies with contemporary subjects like Mathematics, Science, English, and Social Sciences, we prepare students to excel in both duniya and aakhirah. Our dedicated faculty, nurturing environment, and value-based education system make MS School a trusted name in holistic child development.
                 </p>
                 
-                {/* <div className="about-btn mt-45">
-                  <a className="default-btn" href="about-us.html">
-                    ABOUT US
-                  </a>
-                </div> */}
+           
               </div>
             </div>
           </div>
